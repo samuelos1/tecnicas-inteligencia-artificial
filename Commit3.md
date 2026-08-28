@@ -12,3 +12,8 @@ También vimos cómo funciona el proceso de aprendizaje del perceptrón, donde l
 
 La clase nos ayudó a entender de manera más clara cómo una máquina puede utilizar datos para tomar decisiones y cómo estos principios forman parte de las técnicas utilizadas en la Inteligencia Artificial.
 
+### Día 3 – Función de Ackley y Perceptrón
+
+Durante el tercer día de clases vimos la **función de Ackley** y su relación con las técnicas de Inteligencia Artificial. Aprendimos que esta función se utiliza como una función de prueba para evaluar diferentes métodos de optimización, ya que permite observar cómo un algoritmo busca encontrar una solución óptima.
+
+También continuamos trabajando con el **perceptrón**, repasando su funcionamiento y la manera en que utiliza entradas y pesos para generar una respuesta. Estos temas nos ayudaron a comprender mejor cómo funcionan algunos algoritmos utilizados en Inteligencia Artificial y cómo pueden aplicarse para resolver diferentes problemas.
